@@ -14,13 +14,7 @@ Order_Status.csv
 1. Create my Database (KMS_db)
 2. Importing my flat files (KMS SqlCase Study.csv and Order_Status.csv) into my Database
 3. Change Data type of Row_ID, Order_ID from smallint to int and allow NUll
-4. Solve Case Scenarios with SQL queries
-
-
-Select Top 1 Product_Category, ROUND(Sum(Sales), 0) as Highest_Sales from
-[KMS Sql Case Study]
-Group by Product_Category
-Order by Highest_Sales desc
+4. Solve Case Scenarios with SQL queries (KMS_query.sql)
 
 #### Case Scenario 1
 4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
