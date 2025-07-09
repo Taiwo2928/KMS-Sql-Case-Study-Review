@@ -17,11 +17,23 @@ Order_Status.csv
 4. Solve Case Scenarios with SQL queries
 
 #### Case Scenario 1
-1. Which product category had the highest Sales?
+4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
 
-/sql
-Select Top 1 Product_Category, ROUND(Sum(Sales), 0) as Highest_Sales from
-[KMS Sql Case Study]
-Group by Product_Category
-Order by Highest_Sales desc 
-/
+Review:
+Understanding Factorsthat might be the cause such as
+  1. Purchase of Low-margin
+  2. Infrequent purchase
+
+Steps to be Taken
+  1. Recommend products based on their purchase history
+  2. Bundle low-cost items with premium products they haven't tried
+  3. Promote personalized communication and offers
+
+#### Case Scenario II
+11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
+
+Review:
+From data; Delivery Truck is mostly used for High-priority orders with the highest shipping cost while ExpressAir has the lowest shipping cost from high-priority orders.
+
+Conclusion; No, the company did not appropraitely align shipping cost with Order Priority.
+This imply inefficient spending, where shipping method does not reflect the importance of the order.
