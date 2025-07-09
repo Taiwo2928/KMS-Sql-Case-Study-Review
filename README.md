@@ -20,19 +20,21 @@ Order_Status.csv
 4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
 
 Review:
+
 Understanding Factors that may influence low revenue
-  1. Purchase of Low-margin
-  2. Infrequent purchase
+1. Purchase of Low-margin
+2. Infrequent purchase
 
 Steps to be Taken
-  1. Recommend products based on their purchase history
-  2. Bundle low-cost items with premium products they haven't tried
-  3. Promote personalized communication and offers
+1. Recommend products based on their purchase history
+2. Bundle low-cost items with premium products they haven't tried
+3. Promote personalized communication and offers.
 
 #### Case Scenario II
 11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 Review:
+
 From data; Delivery Truck is mostly used for High-priority orders with the highest shipping cost while ExpressAir has the lowest shipping cost from high-priority orders.
 
 Conclusion; No, the company did not appropraitely align shipping cost with Order Priority.
