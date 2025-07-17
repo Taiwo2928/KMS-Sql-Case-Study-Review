@@ -57,13 +57,13 @@ Order by Revenue asc
 Review:
 
 Understanding Factors that may influence low revenue
-i. Purchase of Low-margin
-ii. Infrequent purchase
+ 1. Purchase of Low-margin
+ 2. Infrequent purchase
 
 Steps to be Taken
-i. Recommend products based on their purchase history
-ii. Bundle low-cost items with premium products they haven't tried
-iii. Promote personalized communication and offers.
+ 1. Recommend products based on their purchase history
+ 2. Bundle low-cost items with premium products they haven't tried
+ 3. Promote personalized communication and offers.
 
 5. KMS incurred the most shipping cost using which shipping method?
 ```sql
