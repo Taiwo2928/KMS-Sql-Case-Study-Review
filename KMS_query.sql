@@ -1,6 +1,6 @@
 Create database KMS_db
 
----ImPORT EXCEL FILES---
+---IMPORT EXCEL FILES---
 ---KMS_Sql_Case Study.csv
 ---Order_Status.csv
 
