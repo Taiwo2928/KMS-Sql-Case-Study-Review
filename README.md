@@ -65,6 +65,7 @@ Steps to be Taken
  2. Bundle low-cost items with premium products they haven't tried
  3. Promote personalized communication and offers.
 
+
 5. KMS incurred the most shipping cost using which shipping method?
 ```sql
 ---Highest Revenue from Ship Mode
