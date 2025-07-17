@@ -12,11 +12,11 @@ Order_Status.csv
 
 ### Steps Involved
 1. Create my Database (KMS_db)
-2. Importing my flat files (KMS SqlCase Study.csv and Order_Status.csv) into my Database
+2. Importing my flat files (KMS Sql Case Study.csv and Order_Status.csv) into my Database
 3. Change Data type of Row_ID, Order_ID from smallint to int and allow NUll
 4. Solve Case Scenarios with SQL queries (KMS_query.sql)
 
-#### Case Scenario 1
+#### Insights on Case Scenario 1
 4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
 
 Review:
@@ -30,7 +30,7 @@ Steps to be Taken
 2. Bundle low-cost items with premium products they haven't tried
 3. Promote personalized communication and offers.
 
-#### Case Scenario II
+#### Insights on Case Scenario II
 11. If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 Review:
