@@ -66,7 +66,7 @@ Steps to be Taken
  3. Promote personalized communication and offers.
 
 
-5. KMS incurred the most shipping cost using which shipping method?
+#### 5. KMS incurred the most shipping cost using which shipping method?
 ```sql
 ---Highest Revenue from Ship Mode
 Select Top 1 Ship_Mode, ROUND(Sum(Shipping_Cost), 0) as [Highest Revenue] from [KMS Sql Case Study]
